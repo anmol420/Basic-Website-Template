@@ -8,7 +8,9 @@
 
 <h1>How To Use</h1>
 
-- Just Clone The Repository And Left Click On `index.html` file and click `copy path`.
+- Just Clone The Repository.
+
+- Go To Your Editor And Left Click On `index.html` file and click `copy path`.
 
 - Then paste the link in your browser and hit enter.
 
